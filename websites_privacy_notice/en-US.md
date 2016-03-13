@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
-March 10, 2016
-{: datetime="2016-03-10" }
+March 14, 2016
+{: datetime="2016-03-14" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
